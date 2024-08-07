@@ -1,3 +1,3 @@
 # Security-Projects
-This repo contains a list of cybersecurity projects I have completed.
-These projects include, but are not limited to logging exercises, vulnerability scanning, network scanning, hashing, encoding, encryption, and virtualization.
+This repository contains a collection of cybersecurity projects I have completed. 
+These projects cover a range of activities, including logging exercises, vulnerability and network scanning, hashing, encoding, encryption, and virtualization
